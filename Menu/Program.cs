@@ -2,6 +2,7 @@
 using ArrayIExercise = Array.Interfaces.IExercise;
 using MatrixIExercise = Matrix.Interfaces.IExercise;
 using StackIExercise = Stack.Interfaces.IExercise;
+using QueueIExercise = Queue.Interfaces.IExercise;
 
 class Program
 {
@@ -31,16 +32,16 @@ class Program
             switch (input)
             {
                 case "1":
-                    MenuVetores();
+                    ArrayMenu();
                     break;
                 case "2":
-                    MenuMatrizes();
+                    MatrixMenu();
                     break;
                 case "3":
-                    MenuPilhas();
+                    StackMenu();
                     break;
                 case "4":
-                    MenuFilas();
+                    QueueMenu();
                     break;
                 case "0":
                     running = false;
@@ -61,7 +62,7 @@ class Program
         }
     }
 
-    static void MenuVetores()
+    static void ArrayMenu()
     {
         bool inMenu = true;
         while (inMenu)
@@ -114,7 +115,7 @@ class Program
         }
     }
 
-    static void MenuMatrizes()
+    static void MatrixMenu()
     {
         bool inMenu = true;
         while (inMenu)
@@ -133,6 +134,12 @@ class Program
 
             Console.Write("\nEscolha uma opção: ");
             string option = Console.ReadLine().ToUpper();
+
+            if (option == "S") 
+            {
+                inMenu = false;
+                break;
+            }
 
             try
             {
@@ -161,7 +168,7 @@ class Program
         }
     }
 
-    static void MenuPilhas()
+    static void StackMenu()
     {
         bool inMenu = true;
         while (inMenu)
@@ -179,6 +186,12 @@ class Program
 
             Console.Write("\nEscolha uma opção: ");
             string option = Console.ReadLine().ToUpper();
+
+            if (option == "S") 
+            {
+                inMenu = false;
+                break;
+            }
 
             try
             {
@@ -207,7 +220,7 @@ class Program
         }
     }
 
-    static void MenuFilas()
+    static void QueueMenu()
     {
         bool inMenu = true;
         while (inMenu)
@@ -225,19 +238,35 @@ class Program
             Console.Write("\nEscolha uma opção: ");
             string option = Console.ReadLine().ToUpper();
 
-            switch (option)
+            if (option == "S") 
             {
-                case "A":
-                case "R":
-                case "V":
-                case "B":
-                case "S":
-                    Console.WriteLine($"\nVocê escolheu: {option}");
-                    if (option == "S") inMenu = false;
-                    break;
-                default:
-                    Console.WriteLine("\nOpção inválida.");
-                    break;
+                inMenu = false;
+                break;
+            }
+
+            try
+            {
+                string className = $"Queue.Exercises.Ex{option}, Queue";
+                Type? type = Type.GetType(className);
+
+                if (type != null && Activator.CreateInstance(type) is QueueIExercise exercise)
+                {
+                    exercise.Resolve();
+                }
+                else
+                {
+                    Console.WriteLine("\nExercício Inválido");
+                }
+            }
+            catch (Exception ex)
+            {
+                Console.WriteLine($"\nErro ao executar: {ex.Message}");
+            }
+
+            if (inMenu)
+            {
+                Console.WriteLine("\nPressione qualquer tecla para continuar...");
+                Console.ReadKey();
             }
 
             if (inMenu)
