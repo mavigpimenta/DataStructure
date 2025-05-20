@@ -1,4 +1,3 @@
-x
 # Menu de Estruturas de Dados
 
 Bem-vindo ao projeto **Menu de Estruturas de Dados**!  
@@ -13,7 +12,7 @@ Para iniciar o sistema, siga os passos abaixo:
 1. Navegue até a pasta do projeto no terminal:
 
    ```bash
-   cd menu
+   cd Menu/
    ```
 
 2. Execute o programa usando o comando:
