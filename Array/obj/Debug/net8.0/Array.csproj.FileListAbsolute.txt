@@ -1,0 +1,15 @@
+/Users/mariapimenta/Documents/DataStructure/DataStructure/Array/bin/Debug/net8.0/Array
+/Users/mariapimenta/Documents/DataStructure/DataStructure/Array/bin/Debug/net8.0/Array.deps.json
+/Users/mariapimenta/Documents/DataStructure/DataStructure/Array/bin/Debug/net8.0/Array.runtimeconfig.json
+/Users/mariapimenta/Documents/DataStructure/DataStructure/Array/bin/Debug/net8.0/Array.dll
+/Users/mariapimenta/Documents/DataStructure/DataStructure/Array/bin/Debug/net8.0/Array.pdb
+/Users/mariapimenta/Documents/DataStructure/DataStructure/Array/obj/Debug/net8.0/Array.GeneratedMSBuildEditorConfig.editorconfig
+/Users/mariapimenta/Documents/DataStructure/DataStructure/Array/obj/Debug/net8.0/Array.AssemblyInfoInputs.cache
+/Users/mariapimenta/Documents/DataStructure/DataStructure/Array/obj/Debug/net8.0/Array.AssemblyInfo.cs
+/Users/mariapimenta/Documents/DataStructure/DataStructure/Array/obj/Debug/net8.0/Array.csproj.CoreCompileInputs.cache
+/Users/mariapimenta/Documents/DataStructure/DataStructure/Array/obj/Debug/net8.0/Array.sourcelink.json
+/Users/mariapimenta/Documents/DataStructure/DataStructure/Array/obj/Debug/net8.0/Array.dll
+/Users/mariapimenta/Documents/DataStructure/DataStructure/Array/obj/Debug/net8.0/refint/Array.dll
+/Users/mariapimenta/Documents/DataStructure/DataStructure/Array/obj/Debug/net8.0/Array.pdb
+/Users/mariapimenta/Documents/DataStructure/DataStructure/Array/obj/Debug/net8.0/Array.genruntimeconfig.cache
+/Users/mariapimenta/Documents/DataStructure/DataStructure/Array/obj/Debug/net8.0/ref/Array.dll

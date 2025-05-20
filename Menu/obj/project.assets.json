@@ -1,0 +1,133 @@
+{
+  "version": 3,
+  "targets": {
+    "net9.0": {
+      "Array/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v8.0",
+        "compile": {
+          "bin/placeholder/Array.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Array.dll": {}
+        }
+      },
+      "Matrix/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v8.0",
+        "compile": {
+          "bin/placeholder/Matrix.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Matrix.dll": {}
+        }
+      },
+      "Stack/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v8.0",
+        "compile": {
+          "bin/placeholder/Stack.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Stack.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Array/1.0.0": {
+      "type": "project",
+      "path": "../Array/Array.csproj",
+      "msbuildProject": "../Array/Array.csproj"
+    },
+    "Matrix/1.0.0": {
+      "type": "project",
+      "path": "../Matrix/Matrix.csproj",
+      "msbuildProject": "../Matrix/Matrix.csproj"
+    },
+    "Stack/1.0.0": {
+      "type": "project",
+      "path": "../Stack/Stack.csproj",
+      "msbuildProject": "../Stack/Stack.csproj"
+    }
+  },
+  "projectFileDependencyGroups": {
+    "net9.0": [
+      "Array >= 1.0.0",
+      "Matrix >= 1.0.0",
+      "Stack >= 1.0.0"
+    ]
+  },
+  "packageFolders": {
+    "/Users/mariapimenta/.nuget/packages/": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "/Users/mariapimenta/Documents/DataStructure/DataStructure/Menu/DataStructure.csproj",
+      "projectName": "DataStructure",
+      "projectPath": "/Users/mariapimenta/Documents/DataStructure/DataStructure/Menu/DataStructure.csproj",
+      "packagesPath": "/Users/mariapimenta/.nuget/packages/",
+      "outputPath": "/Users/mariapimenta/Documents/DataStructure/DataStructure/Menu/obj/",
+      "projectStyle": "PackageReference",
+      "configFilePaths": [
+        "/Users/mariapimenta/.nuget/NuGet/NuGet.Config"
+      ],
+      "originalTargetFrameworks": [
+        "net9.0"
+      ],
+      "sources": {
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "net9.0": {
+          "targetAlias": "net9.0",
+          "projectReferences": {
+            "/Users/mariapimenta/Documents/DataStructure/DataStructure/Array/Array.csproj": {
+              "projectPath": "/Users/mariapimenta/Documents/DataStructure/DataStructure/Array/Array.csproj"
+            },
+            "/Users/mariapimenta/Documents/DataStructure/DataStructure/Matrix/Matrix.csproj": {
+              "projectPath": "/Users/mariapimenta/Documents/DataStructure/DataStructure/Matrix/Matrix.csproj"
+            },
+            "/Users/mariapimenta/Documents/DataStructure/DataStructure/Stack/Stack.csproj": {
+              "projectPath": "/Users/mariapimenta/Documents/DataStructure/DataStructure/Stack/Stack.csproj"
+            }
+          }
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      },
+      "restoreAuditProperties": {
+        "enableAudit": "true",
+        "auditLevel": "low",
+        "auditMode": "direct"
+      },
+      "SdkAnalysisLevel": "9.0.100"
+    },
+    "frameworks": {
+      "net9.0": {
+        "targetAlias": "net9.0",
+        "imports": [
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48",
+          "net481"
+        ],
+        "assetTargetFallback": true,
+        "warn": true,
+        "frameworkReferences": {
+          "Microsoft.NETCore.App": {
+            "privateAssets": "all"
+          }
+        },
+        "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/9.0.103/PortableRuntimeIdentifierGraph.json"
+      }
+    }
+  }
+}
