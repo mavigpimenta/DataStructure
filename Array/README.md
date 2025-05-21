@@ -13,6 +13,6 @@ If you want to run the exercise outside the menu, use the command below in the t
 ```
 dotnet run Ex1
 ```
-Replace `Ex1` with any class name from `Ex1` to `Ex9`, depending on the exercise you want to execute.
+Replace `Ex1` depending on the exercise you want to execute.
 
 > When entering floating-point numbers (e.g., double values), please ensure that you use the dot (.) as the decimal separator, as required in the American format (e.g., 12.5 instead of 12,5).
