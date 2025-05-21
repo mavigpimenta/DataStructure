@@ -1,7 +1,3 @@
-# 🇺🇸 Data Structures Menu / 🇧🇷 Menu de Estruturas de Dados
-
----
-
 ## 🇺🇸 Data Structures Menu
 
 Welcome to the **Data Structures Menu** project!  
