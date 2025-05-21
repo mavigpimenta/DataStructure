@@ -35,3 +35,8 @@
 /Users/mariapimenta/Documents/DataStructure/DataStructure/Menu/bin/Debug/net9.0/Matrix.pdb
 /Users/mariapimenta/Documents/DataStructure/DataStructure/Menu/bin/Debug/net9.0/Stack.pdb
 /Users/mariapimenta/Documents/DataStructure/DataStructure/Menu/obj/Debug/net9.0/DataStru.1F661122.Up2Date
+/Users/mariapimenta/Documents/DataStructure/DataStructure/Menu/bin/Debug/net9.0/Queue.deps.json
+/Users/mariapimenta/Documents/DataStructure/DataStructure/Menu/bin/Debug/net9.0/Queue.runtimeconfig.json
+/Users/mariapimenta/Documents/DataStructure/DataStructure/Menu/bin/Debug/net9.0/Queue
+/Users/mariapimenta/Documents/DataStructure/DataStructure/Menu/bin/Debug/net9.0/Queue.dll
+/Users/mariapimenta/Documents/DataStructure/DataStructure/Menu/bin/Debug/net9.0/Queue.pdb

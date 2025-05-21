@@ -73,11 +73,6 @@ class Program
             Console.ResetColor();
             for (int i = 1; i <= 9; i++)
                 Console.WriteLine($"{i}. Exercício {i}");
-            Console.WriteLine("\nA. Adicionar item");
-            Console.WriteLine("R. Remover item");
-            Console.WriteLine("V. Visualizar todos os itens");
-            Console.WriteLine("B. Buscar item");
-            Console.WriteLine("S. Sair para o menu principal");
 
             Console.Write("\nEscolha uma opção: ");
             string option = Console.ReadLine().ToUpper();
@@ -126,11 +121,6 @@ class Program
             Console.ResetColor();
             for (int i = 1; i <= 7; i++)
                 Console.WriteLine($"{i}. Exercício {i}");
-            Console.WriteLine("\nA. Adicionar item");
-            Console.WriteLine("R. Remover item");
-            Console.WriteLine("V. Visualizar todos os itens");
-            Console.WriteLine("B. Buscar item");
-            Console.WriteLine("S. Sair para o menu principal");
 
             Console.Write("\nEscolha uma opção: ");
             string option = Console.ReadLine().ToUpper();

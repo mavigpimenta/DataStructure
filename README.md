@@ -59,6 +59,7 @@ When you enter the Arrays menu, you will see options like:
 ...
 9. Exercise 9
 
+(Only for Stack and Queue)
 A. Add item
 R. Remove item
 V. View all items

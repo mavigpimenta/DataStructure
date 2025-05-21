@@ -4,6 +4,7 @@
     <ProjectReference Include="..\Array\Array.csproj" />
     <ProjectReference Include="..\Matrix\Matrix.csproj" />
     <ProjectReference Include="..\Stack\Stack.csproj" />
+    <ProjectReference Include="..\Queue\Queue.csproj" />
   </ItemGroup>
 
   <PropertyGroup>

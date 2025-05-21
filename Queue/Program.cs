@@ -1,5 +1,5 @@
 ﻿using System.Globalization;
-using Stack.Interfaces;
+using Queue.Interfaces;
 
 class Program
 {

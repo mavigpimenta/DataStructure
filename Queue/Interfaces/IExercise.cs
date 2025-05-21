@@ -1,4 +1,4 @@
-namespace Stack.Interfaces;
+namespace Queue.Interfaces;
 
 public interface IExercise
 {

@@ -1,0 +1,15 @@
+/Users/mariapimenta/Documents/DataStructure/DataStructure/Queue/bin/Debug/net9.0/Queue
+/Users/mariapimenta/Documents/DataStructure/DataStructure/Queue/bin/Debug/net9.0/Queue.deps.json
+/Users/mariapimenta/Documents/DataStructure/DataStructure/Queue/bin/Debug/net9.0/Queue.runtimeconfig.json
+/Users/mariapimenta/Documents/DataStructure/DataStructure/Queue/bin/Debug/net9.0/Queue.dll
+/Users/mariapimenta/Documents/DataStructure/DataStructure/Queue/bin/Debug/net9.0/Queue.pdb
+/Users/mariapimenta/Documents/DataStructure/DataStructure/Queue/obj/Debug/net9.0/Queue.GeneratedMSBuildEditorConfig.editorconfig
+/Users/mariapimenta/Documents/DataStructure/DataStructure/Queue/obj/Debug/net9.0/Queue.AssemblyInfoInputs.cache
+/Users/mariapimenta/Documents/DataStructure/DataStructure/Queue/obj/Debug/net9.0/Queue.AssemblyInfo.cs
+/Users/mariapimenta/Documents/DataStructure/DataStructure/Queue/obj/Debug/net9.0/Queue.csproj.CoreCompileInputs.cache
+/Users/mariapimenta/Documents/DataStructure/DataStructure/Queue/obj/Debug/net9.0/Queue.sourcelink.json
+/Users/mariapimenta/Documents/DataStructure/DataStructure/Queue/obj/Debug/net9.0/Queue.dll
+/Users/mariapimenta/Documents/DataStructure/DataStructure/Queue/obj/Debug/net9.0/refint/Queue.dll
+/Users/mariapimenta/Documents/DataStructure/DataStructure/Queue/obj/Debug/net9.0/Queue.pdb
+/Users/mariapimenta/Documents/DataStructure/DataStructure/Queue/obj/Debug/net9.0/Queue.genruntimeconfig.cache
+/Users/mariapimenta/Documents/DataStructure/DataStructure/Queue/obj/Debug/net9.0/ref/Queue.dll
