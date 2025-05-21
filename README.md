@@ -5,7 +5,7 @@ This system allows you to navigate through exercise menus involving Arrays, Matr
 
 ---
 
-### How to run
+### 🚀 How to run
 
 To start the system, follow these steps:
 
@@ -23,7 +23,7 @@ To start the system, follow these steps:
 
 ---
 
-### How the menu works
+### 💻 How the menu works
 
 When you run the program, you will see the main menu:
 
@@ -43,7 +43,7 @@ Choose an option:
 
 Type the number corresponding to the structure you want to explore.
 
-#### Arrays Menu
+#### 🌀 Arrays Menu
 
 When you enter the Arrays menu, you will see options like:
 
@@ -69,13 +69,13 @@ Choose an option:
 - Use the letters for specific actions (Add, Remove, View, Search).  
 - Type `S` to go back to the main menu.
 
-#### Matrices, Stacks, and Queues Menus
+#### 🔛 Matrices, Stacks, and Queues Menus
 
 Other menus work similarly, with their own lists of exercises and options.
 
 ---
 
-### Quick Example
+### 🟢 Quick Example
 
 Suppose you want to run exercise 3 from the Arrays menu:
 
@@ -94,7 +94,7 @@ Este sistema permite que você navegue por menus de exercícios envolvendo Vetor
 
 ---
 
-### Como executar
+### 🚀 Como executar
 
 Para iniciar o sistema, siga os passos abaixo:
 
@@ -112,7 +112,7 @@ Para iniciar o sistema, siga os passos abaixo:
 
 ---
 
-### Como funciona o menu
+### 💻 Como funciona o menu
 
 Ao executar o programa, você verá o menu principal:
 
@@ -132,7 +132,7 @@ Escolha uma opção:
 
 Digite o número correspondente à estrutura que deseja explorar.
 
-#### Menu Vetores
+#### 🌀 Menu Vetores
 
 Ao entrar no menu de Vetores, você verá opções como:
 
@@ -157,13 +157,13 @@ Escolha uma opção:
 - Use as letras para ações específicas (Adicionar, Remover, Visualizar, Buscar).  
 - Digite `S` para voltar ao menu principal.
 
-#### Menus Matrizes, Pilhas e Filas
+#### 🔛 Menus Matrizes, Pilhas e Filas
 
 Os outros menus funcionam de forma similar, com suas próprias listas de exercícios e opções.
 
 ---
 
-### Exemplo Rápido
+### 🟢 Exemplo Rápido
 
 Suponha que você deseja executar o exercício 3 do menu Vetores:
 
