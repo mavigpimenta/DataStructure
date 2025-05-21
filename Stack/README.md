@@ -1,6 +1,6 @@
 # Stack
 
-This repository contains solutions to a list of X programming exercises written in C#. Each exercise is implemented in its own class (ExX to ExZ) and follows a common interface for execution.
+This repository contains solutions to a list of X programming exercises written in C#. Each exercise is implemented in its own class (Ex1 + ExA, ExB, ExV and ExR) and follows a common interface for execution.
 
 ## Project Structure
 
@@ -9,7 +9,7 @@ This repository contains solutions to a list of X programming exercises written 
 - `Exercises/Ex1 to Exercises/ExX`: Individual exercise classes.
 
 ## How to run
-To run any of the exercises, use the following command in the terminal:
+If you want to run the exercise outside the menu, use the command below in the terminal:
 ```
 dotnet run Ex1
 ```

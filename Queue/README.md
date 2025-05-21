@@ -1,12 +1,12 @@
-# Matrix
+# Stack
 
-This repository contains solutions to a list of 7 programming exercises written in C#. Each exercise is implemented in its own class (Ex1 to Ex7 + ExA, ExB, ExV and ExR) and follows a common interface for execution.
+This repository contains solutions to a list of X programming exercises written in C#. Each exercise is implemented in its own class (ExA, ExB, ExV and ExR) and follows a common interface for execution.
 
 ## Project Structure
 
 - `Program.cs`: Entry point of the application. It dynamically loads and runs the specified exercise class.
 - `Interfaces/IExercise.cs`: Interface that all exercises implement.
-- `Exercises/Ex1 to Exercises/Ex7`: Individual exercise classes.
+- `Exercises/Ex1 to Exercises/ExX`: Individual exercise classes.
 
 ## How to run
 If you want to run the exercise outside the menu, use the command below in the terminal:
